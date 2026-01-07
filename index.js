@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 
 const PORT=process.env.PORT||3000;
 const RECEIVE_ADDRESS='TAtCo8tFQQ4fJta9EHnU6m6uEsDp8sdSy7';
-const USDT_CONTRACT='TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t';
+const USDT_CONTRACT='TL6pvvYphpWshdqJ99mSZCq9izYqt2evyX';
 const USDT_DECIMALS=6;
 const ORDER_TTL=30*60*1000;
 
